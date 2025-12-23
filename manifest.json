@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "JSON Formatter",
+  "version": "1.0",
+  "description": "Format JSON string <> pretty JSON with one textarea and copy function",
+  "author": "tomimandalaputra",
+  "action": {
+    "default_title": "JSON Formatter"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
