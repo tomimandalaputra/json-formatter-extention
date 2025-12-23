@@ -24,4 +24,4 @@ A simple Chrome Extension to convert JSON string ↔ Pretty JSON with one textar
 If using local Tailwind CSS:
 
 ```bash
-npx tailwindcss -i ./input.css -o ./tailwind.min.css --minify
+npx tailwindcss -i ./global.css -o ./tailwind.min.css --minify
